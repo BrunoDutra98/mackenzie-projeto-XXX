@@ -38,6 +38,6 @@ Como atualmente o mundo está em processo de automatização, neste projeto irem
 _______________________________________
 Obs:
 
-`src/` deve conter os códigos desenvolvidos (Em desenvolvimento)
+`src/` deve conter os códigos desenvolvidos 
 
-`doc/` documentação do projeto (Em desenvolvimento)
+`doc/` documentação do projeto 
