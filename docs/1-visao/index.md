@@ -1,75 +1,60 @@
-# Documento de Visão do Projeto "NOME DO PROJETO"
+# Documento de Visão do Projeto "Acendimento de Lâmpadas via internet com arduino"
 
-Este documento apresenta uma solução de software para o projeto *"NOME DO PROJETO"*, 
+Este documento apresenta uma solução de software para o projeto *"Acendimento de Lâmpadas via internet com arduino"*, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades esperadas.
 
 ## Objetivos
 
-* Objetivo 1
-* Objetivo 2
-* Objetivo 3
-* etc.
+* Objetivo 1: Automatizar acendimento de lâmpadas;
+* Objetivo 2: Facilitar o dia-a-dia nas casas, possibilitando o acendimento via internet;
 
 ## Problema
 
-* Descrição do problema: ___
-* Quem é afetado pelo problema: ____
-* Impacto no negócio: ___
-* Benefícios de uma boa solução: ___
+* Descrição do problema: Atualmente a maioria das casas têm o acendimento de lâmpadas padrão, por meio de interruptores.
+* Quem é afetado pelo problema: Todas as pessoas que têm um imóvel com energia elétrica.
+* Impacto no negócio: Caso seja efetivado, terá um grande impacto no mercado, pois é algo inovador e facilitador.
+* Benefícios de uma boa solução: Grande facilidade no dia-a-dia, agilizando o processo de acendimento de lâmpadas.
 
-## Definições, abreviações e outros termos do domínio do problema
-
-* Definição 1
-* Definição 2
-* Definição 3
-* etc.
 
 ## Integração com outros sistemas
 
-* Sistema externo 1
-* Sistema externo 2
-* Sistema externo 3
-* etc.
+* Celulares;
+* Computadores;
+* Dispositivos com acesso à internet;
  
 ## Interessados
 
-* Tipo de interessado 1
-* Tipo de interessado 2
-* Tipo de interessado 3
-* etc.
+* Pessoas físicas, com o fim de instalarem nas suas casas;
+* Empresas, com o fim de instalarem em seus escritórios;
+* Empresas, com o fim de revender o produto com sua marca;
 
 ## Usuários
 
-* Tipo de usuário 1
-* Tipo de usuário 2
-* Tipo de usuário 3
-* etc.
+* Pessoa com celular com acesso à internet;
+* Pessoa com computador com acesso à internet;
 
 ## Funcionalidades do produto
 
-* Funcionalidade 1
-* Funcionalidade 2
-* etc.
+* Acendimento de lâmpadas via internet.
 
 ## Restrições do projeto
 
-* Restrição 1
-* Restrição 2
-* Restrição 3
-* etc.
+* Necessaário acesso à internet;
+* Necessário instalação e configuração do equipamento;
+* Necessário energia elétrica.
 
 ## Protótipos
 
 ### Protótipos para funcionalidade 1
 
-![](proto1.png)
+![](arduino.jpeg)
 
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
+Protótipo do projeto
 
 ### Protótipos para funcionalidade 2
 
-![](proto2.png)
+![](interface.jpeg)
 
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
+Interface do projeto online.
 
 ### Protótipos para funcionalidade N
