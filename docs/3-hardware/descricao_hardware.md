@@ -24,3 +24,7 @@ Como atualmente o mundo está em processo de automatização, neste projeto irem
 02 – Soquete Lâmpada E14
 
 01 – Plug Tomada Macho
+
+# Print Fritzing
+
+![](img.png)
